@@ -1,7 +1,3 @@
-Perfeito! Aqui está o texto sobre o *Strategy Pattern* formatado no padrão README, com seções bem definidas para melhor leitura.
-
----
-
 # Strategy Pattern with Tax Calculator
 
 This project is a simple and practical demonstration of the **Strategy Design Pattern** using a tax calculator example. A single API with one endpoint was developed to illustrate how different tax calculation algorithms can be selected and used at runtime.
